@@ -17,7 +17,7 @@ Building things that make numbers make sense.
 
 - 🔎 I turn messy, real-world data into insights people can actually act on
 - 📈 Comfortable across the full pipeline — **SQL → Python → Dashboards → Storytelling**
-- 🤖 Currently leveling up in **Machine Learning & AI**, building end-to-end predictive models
+- 🤖 Currently leveling up in **Machine Learning, Generative AI & LLMs** — building RAG pipelines, chatbots, and predictive models
 - 🧠 I like projects with a real business or human angle — banking, insurance, real estate, sales
 - ⚡ Fun fact: I'd rather find *why* a number moved than just report *that* it moved
 
@@ -39,6 +39,19 @@ Building things that make numbers make sense.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Gen AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
+<br/>
+![Vector DB](https://img.shields.io/badge/Vector_DB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
 
