@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pranav+%F0%9F%91%8B;Data+Analyst+%7C+Turning+raw+data+into+decisions;Exploring+Data+Science+%26+AI%2FML" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA0FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Pranav+%F0%9F%91%8B;Senior+Data+Analyst+%7C+Turning+raw+data+into+decisions;Exploring+Data+Science+%26+AI%2FML" alt="Typing SVG" />
 
-### 📊 Data Analyst → 🤖 Data Science & AI/ML Enthusiast
+### 📊 Senior Data Analyst → 🤖 Data Science & AI/ML Enthusiast
 Building things that make numbers make sense.
 
 <a href="[https://www.linkedin.com/in/pranavmulaye08](https://www.linkedin.com/in/pranavmulaye/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
